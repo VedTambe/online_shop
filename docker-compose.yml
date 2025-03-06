@@ -1,7 +1,6 @@
 services:
   online_shop:
-    build:
-      context: .
+    iamges: vedant1218/online-shop:latest
 
     container_name: online_shop
     ports:
