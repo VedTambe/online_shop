@@ -1,6 +1,6 @@
 services:
   online_shop:
-    iamges: vedant1218/online-shop:latest
+    iamge: vedant1218/online-shop:latest
 
     container_name: online_shop
     ports:
